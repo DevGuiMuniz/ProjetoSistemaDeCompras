@@ -20,5 +20,5 @@ O sistema tem como objetivo de criar um catalogo de itens de um supermercado ond
 ## ✔ Interface simples e intuitiva.
 
 🛠 Tecnologias utilizadas
-## Groovy
-## Java
+## Groovy
+## Java
